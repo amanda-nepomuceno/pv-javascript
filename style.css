@@ -92,3 +92,7 @@
    color:var(--verde);
    text-transform: uppercase;
  }
+ .contador{
+  text-align: center;
+  font-size: 20px;
+ }
